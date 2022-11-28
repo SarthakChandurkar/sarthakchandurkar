@@ -1,7 +1,7 @@
-![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ea93c3ef-04c8-4951-bc0d-0764028e81d0/d7rb3e9-6b10256c-67ee-4703-aa3c-c29790345f95.jpg/v1/fill/w_960,h_350,q_75,strp/web_development_banner_by_kashifanwer87_d7rb3e9-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzUwIiwicGF0aCI6IlwvZlwvZWE5M2MzZWYtMDRjOC00OTUxLWJjMGQtMDc2NDAyOGU4MWQwXC9kN3JiM2U5LTZiMTAyNTZjLTY3ZWUtNDcwMy1hYTNjLWMyOTc5MDM0NWY5NS5qcGciLCJ3aWR0aCI6Ijw9OTYwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.pvDS4Y21KCeyr4QfdYcgGxtw2ukOeocKY_G-_nLfuSc)
+
 <h1 align="center">Hi 👋, I'm Sarthak Suresh Chandurkar</h1>
 <h3 align="center">A passionate full stack web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakchandurkar&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakchandurkar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthakchandurkar" alt="sarthakchandurkar" /></a> </p>
